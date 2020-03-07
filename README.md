@@ -2,7 +2,6 @@
 
 # Basic Python programming
 
-[2.pdf](/2.pdf)
 [2.py](/2.py)
 
 [3.pdf](/3.pdf)
